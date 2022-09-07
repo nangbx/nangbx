@@ -32,6 +32,7 @@
 </p>
 
 ## 📊 My Github Stats
+    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
   <br/>
     <a href="https://github.com/nangbx/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nangbx&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
